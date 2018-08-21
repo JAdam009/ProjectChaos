@@ -1,0 +1,1146 @@
+fileFormatVersion: 2
+guid: 5eae3592d704a6a439dce050690fdf8b
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: arc_InfoCurve
+    100002: arc_InfoCurve 1
+    100004: arc_InfoCurve 2
+    100006: arc_InfoCurve 3
+    100008: blendShapes
+    100010: blendShapes 1
+    100012: blendShapes 2
+    100014: blendShapes 3
+    100016: body_Icon
+    100018: body_Icon 1
+    100020: bodyJnt1_bnd
+    100022: bodyJnt1_bnd 1
+    100024: bodyJnt1_bnd 2
+    100026: bodyJnt1_bnd 3
+    100028: bodyJnt2_bnd
+    100030: bodyJnt2_bnd 1
+    100032: bodyJnt2_bnd 2
+    100034: bodyJnt2_bnd 3
+    100036: bodyJnt3_bnd
+    100038: bodyJnt3_bnd 1
+    100040: bodyJnt3_bnd 2
+    100042: bodyJnt3_bnd 3
+    100044: bodyJnt4_bnd
+    100046: bodyJnt4_bnd 1
+    100048: bodyJnt4_bnd 2
+    100050: bodyJnt4_bnd 3
+    100052: bodyJnt5_bnd
+    100054: bodyJnt5_bnd 1
+    100056: bodyJnt5_bnd 2
+    100058: bodyJnt5_bnd 3
+    100060: bodyJnt6_bnd
+    100062: bodyJnt6_bnd 1
+    100064: bodyJnt6_bnd 2
+    100066: bodyJnt6_bnd 3
+    100068: bodyJnt7_bnd
+    100070: bodyJnt7_bnd 1
+    100072: bodyJnt7_bnd 2
+    100074: bodyJnt7_bnd 3
+    100076: bodyJnt8_wst
+    100078: bodyJnt8_wst 1
+    100080: bodyJnt8_wst 2
+    100082: bodyJnt8_wst 3
+    100084: Controls
+    100086: Controls 1
+    100088: Controls 2
+    100090: Controls 3
+    100092: Corrective
+    100094: Corrective 1
+    100096: Corrective 2
+    100098: Corrective 3
+    100100: DO_NOT_TOUCH
+    100102: DO_NOT_TOUCH 1
+    100104: DO_NOT_TOUCH 2
+    100106: DO_NOT_TOUCH 3
+    100108: Facia_Setup
+    100110: Facia_Setup 1
+    100112: Facia_Setup 2
+    100114: Facia_Setup 3
+    100116: Facial_Icon
+    100118: Facial_Icon 1
+    100120: Geo
+    100122: Geo 1
+    100124: Geo 2
+    100126: Geo 3
+    100128: group
+    100130: group1
+    100132: leafA01_bnd
+    100134: leafA01_bnd 1
+    100136: leafA01_bnd 2
+    100138: leafA01_bnd 3
+    100140: leafA01_Icon
+    100142: leafA01_Icon 1
+    100144: leafA01_pad00
+    100146: leafA01_pad00 1
+    100148: leafA01_pad01
+    100150: leafA01_pad01 1
+    100152: leafA01_pad02
+    100154: leafA01_pad02 1
+    100156: leafA01_pad03
+    100158: leafA01_pad03 1
+    100160: leafA02_bnd
+    100162: leafA02_bnd 1
+    100164: leafA02_bnd 2
+    100166: leafA02_bnd 3
+    100168: leafA02_Icon
+    100170: leafA02_Icon 1
+    100172: leafA02_pad00
+    100174: leafA02_pad00 1
+    100176: leafA02_pad01
+    100178: leafA02_pad01 1
+    100180: leafA02_pad02
+    100182: leafA02_pad02 1
+    100184: leafA02_pad03
+    100186: leafA02_pad03 1
+    100188: leafA03_bnd
+    100190: leafA03_bnd 1
+    100192: leafA03_bnd 2
+    100194: leafA03_bnd 3
+    100196: leafA03_Icon
+    100198: leafA03_Icon 1
+    100200: leafA03_pad00
+    100202: leafA03_pad00 1
+    100204: leafA03_pad01
+    100206: leafA03_pad01 1
+    100208: leafA03_pad02
+    100210: leafA03_pad02 1
+    100212: leafA03_pad03
+    100214: leafA03_pad03 1
+    100216: leafA04_bnd
+    100218: leafA04_bnd 1
+    100220: leafA04_bnd 2
+    100222: leafA04_bnd 3
+    100224: leafA04_Icon
+    100226: leafA04_Icon 1
+    100228: leafA04_pad00
+    100230: leafA04_pad00 1
+    100232: leafA04_pad01
+    100234: leafA04_pad01 1
+    100236: leafA04_pad02
+    100238: leafA04_pad02 1
+    100240: leafA04_pad03
+    100242: leafA04_pad03 1
+    100244: leafA05_bnd
+    100246: leafA05_bnd 1
+    100248: leafA05_bnd 2
+    100250: leafA05_bnd 3
+    100252: leafA05_Icon
+    100254: leafA05_Icon 1
+    100256: leafA05_pad00
+    100258: leafA05_pad00 1
+    100260: leafA05_pad01
+    100262: leafA05_pad01 1
+    100264: leafA05_pad02
+    100266: leafA05_pad02 1
+    100268: leafA05_pad03
+    100270: leafA05_pad03 1
+    100272: leafA06_bnd
+    100274: leafA06_bnd 1
+    100276: leafA06_bnd 2
+    100278: leafA06_bnd 3
+    100280: leafA06_Icon
+    100282: leafA06_Icon 1
+    100284: leafA06_pad00
+    100286: leafA06_pad00 1
+    100288: leafA06_pad01
+    100290: leafA06_pad01 1
+    100292: leafA06_pad02
+    100294: leafA06_pad02 1
+    100296: leafA06_pad03
+    100298: leafA06_pad03 1
+    100300: leafA07_end
+    100302: leafA07_end 1
+    100304: leafA07_end 2
+    100306: leafA07_end 3
+    100308: leafB01_bnd
+    100310: leafB01_bnd 1
+    100312: leafB01_bnd 2
+    100314: leafB01_bnd 3
+    100316: leafB01_Icon
+    100318: leafB01_Icon 1
+    100320: leafB01_pad00
+    100322: leafB01_pad00 1
+    100324: leafB01_pad01
+    100326: leafB01_pad01 1
+    100328: leafB01_pad02
+    100330: leafB01_pad02 1
+    100332: leafB01_pad03
+    100334: leafB01_pad03 1
+    100336: leafB02_bnd
+    100338: leafB02_bnd 1
+    100340: leafB02_bnd 2
+    100342: leafB02_bnd 3
+    100344: leafB02_Icon
+    100346: leafB02_Icon 1
+    100348: leafB02_pad00
+    100350: leafB02_pad00 1
+    100352: leafB02_pad01
+    100354: leafB02_pad01 1
+    100356: leafB02_pad02
+    100358: leafB02_pad02 1
+    100360: leafB02_pad03
+    100362: leafB02_pad03 1
+    100364: leafB03_bnd
+    100366: leafB03_bnd 1
+    100368: leafB03_bnd 2
+    100370: leafB03_bnd 3
+    100372: leafB03_Icon
+    100374: leafB03_Icon 1
+    100376: leafB03_pad00
+    100378: leafB03_pad00 1
+    100380: leafB03_pad01
+    100382: leafB03_pad01 1
+    100384: leafB03_pad02
+    100386: leafB03_pad02 1
+    100388: leafB03_pad03
+    100390: leafB03_pad03 1
+    100392: leafB04_bnd
+    100394: leafB04_bnd 1
+    100396: leafB04_bnd 2
+    100398: leafB04_bnd 3
+    100400: leafB04_Icon
+    100402: leafB04_Icon 1
+    100404: leafB04_pad00
+    100406: leafB04_pad00 1
+    100408: leafB04_pad01
+    100410: leafB04_pad01 1
+    100412: leafB04_pad02
+    100414: leafB04_pad02 1
+    100416: leafB04_pad03
+    100418: leafB04_pad03 1
+    100420: leafB05_bnd
+    100422: leafB05_bnd 1
+    100424: leafB05_bnd 2
+    100426: leafB05_bnd 3
+    100428: leafB05_Icon
+    100430: leafB05_Icon 1
+    100432: leafB05_pad00
+    100434: leafB05_pad00 1
+    100436: leafB05_pad01
+    100438: leafB05_pad01 1
+    100440: leafB05_pad02
+    100442: leafB05_pad02 1
+    100444: leafB05_pad03
+    100446: leafB05_pad03 1
+    100448: leafB06_bnd
+    100450: leafB06_bnd 1
+    100452: leafB06_bnd 2
+    100454: leafB06_bnd 3
+    100456: leafB06_Icon
+    100458: leafB06_Icon 1
+    100460: leafB06_pad00
+    100462: leafB06_pad00 1
+    100464: leafB06_pad01
+    100466: leafB06_pad01 1
+    100468: leafB06_pad02
+    100470: leafB06_pad02 1
+    100472: leafB06_pad03
+    100474: leafB06_pad03 1
+    100476: leafB07_end
+    100478: leafB07_end 1
+    100480: leafB07_end 2
+    100482: leafB07_end 3
+    100484: leafC01_bnd
+    100486: leafC01_bnd 1
+    100488: leafC01_bnd 2
+    100490: leafC01_bnd 3
+    100492: leafC01_Icon
+    100494: leafC01_Icon 1
+    100496: leafC01_pad00
+    100498: leafC01_pad00 1
+    100500: leafC01_pad01
+    100502: leafC01_pad01 1
+    100504: leafC01_pad02
+    100506: leafC01_pad02 1
+    100508: leafC01_pad03
+    100510: leafC01_pad03 1
+    100512: leafC02_bnd
+    100514: leafC02_bnd 1
+    100516: leafC02_bnd 2
+    100518: leafC02_bnd 3
+    100520: leafC02_Icon
+    100522: leafC02_Icon 1
+    100524: leafC02_pad00
+    100526: leafC02_pad00 1
+    100528: leafC02_pad01
+    100530: leafC02_pad01 1
+    100532: leafC02_pad02
+    100534: leafC02_pad02 1
+    100536: leafC02_pad03
+    100538: leafC02_pad03 1
+    100540: leafC03_bnd
+    100542: leafC03_bnd 1
+    100544: leafC03_bnd 2
+    100546: leafC03_bnd 3
+    100548: leafC03_Icon
+    100550: leafC03_Icon 1
+    100552: leafC03_pad00
+    100554: leafC03_pad00 1
+    100556: leafC03_pad01
+    100558: leafC03_pad01 1
+    100560: leafC03_pad02
+    100562: leafC03_pad02 1
+    100564: leafC03_pad03
+    100566: leafC03_pad03 1
+    100568: leafC04_bnd
+    100570: leafC04_bnd 1
+    100572: leafC04_bnd 2
+    100574: leafC04_bnd 3
+    100576: leafC04_Icon
+    100578: leafC04_Icon 1
+    100580: leafC04_pad00
+    100582: leafC04_pad00 1
+    100584: leafC04_pad01
+    100586: leafC04_pad01 1
+    100588: leafC04_pad02
+    100590: leafC04_pad02 1
+    100592: leafC04_pad03
+    100594: leafC04_pad03 1
+    100596: leafC05_bnd
+    100598: leafC05_bnd 1
+    100600: leafC05_bnd 2
+    100602: leafC05_bnd 3
+    100604: leafC05_Icon
+    100606: leafC05_Icon 1
+    100608: leafC05_pad00
+    100610: leafC05_pad00 1
+    100612: leafC05_pad01
+    100614: leafC05_pad01 1
+    100616: leafC05_pad02
+    100618: leafC05_pad02 1
+    100620: leafC05_pad03
+    100622: leafC05_pad03 1
+    100624: leafC06_bnd
+    100626: leafC06_bnd 1
+    100628: leafC06_bnd 2
+    100630: leafC06_bnd 3
+    100632: leafC06_Icon
+    100634: leafC06_Icon 1
+    100636: leafC06_pad00
+    100638: leafC06_pad00 1
+    100640: leafC06_pad01
+    100642: leafC06_pad01 1
+    100644: leafC06_pad02
+    100646: leafC06_pad02 1
+    100648: leafC06_pad03
+    100650: leafC06_pad03 1
+    100652: leafC07_bnd
+    100654: leafC07_bnd 1
+    100656: leafC07_bnd 2
+    100658: leafC07_bnd 3
+    100660: leafC07_Icon
+    100662: leafC07_Icon 1
+    100664: leafC07_pad00
+    100666: leafC07_pad00 1
+    100668: leafC07_pad01
+    100670: leafC07_pad01 1
+    100672: leafC07_pad02
+    100674: leafC07_pad02 1
+    100676: leafC07_pad03
+    100678: leafC07_pad03 1
+    100680: leafC08_end
+    100682: leafC08_end 1
+    100684: leafC08_end 2
+    100686: leafC08_end 3
+    100688: leafD01_bnd
+    100690: leafD01_bnd 1
+    100692: leafD01_bnd 2
+    100694: leafD01_bnd 3
+    100696: leafD01_Icon
+    100698: leafD01_Icon 1
+    100700: leafD01_pad00
+    100702: leafD01_pad00 1
+    100704: leafD01_pad01
+    100706: leafD01_pad01 1
+    100708: leafD01_pad02
+    100710: leafD01_pad02 1
+    100712: leafD01_pad03
+    100714: leafD01_pad03 1
+    100716: leafD02_bnd
+    100718: leafD02_bnd 1
+    100720: leafD02_bnd 2
+    100722: leafD02_bnd 3
+    100724: leafD02_Icon
+    100726: leafD02_Icon 1
+    100728: leafD02_pad00
+    100730: leafD02_pad00 1
+    100732: leafD02_pad01
+    100734: leafD02_pad01 1
+    100736: leafD02_pad02
+    100738: leafD02_pad02 1
+    100740: leafD02_pad03
+    100742: leafD02_pad03 1
+    100744: leafD03_bnd
+    100746: leafD03_bnd 1
+    100748: leafD03_bnd 2
+    100750: leafD03_bnd 3
+    100752: leafD03_Icon
+    100754: leafD03_Icon 1
+    100756: leafD03_pad00
+    100758: leafD03_pad00 1
+    100760: leafD03_pad01
+    100762: leafD03_pad01 1
+    100764: leafD03_pad02
+    100766: leafD03_pad02 1
+    100768: leafD03_pad03
+    100770: leafD03_pad03 1
+    100772: leafD04_bnd
+    100774: leafD04_bnd 1
+    100776: leafD04_bnd 2
+    100778: leafD04_bnd 3
+    100780: leafD04_Icon
+    100782: leafD04_Icon 1
+    100784: leafD04_pad00
+    100786: leafD04_pad00 1
+    100788: leafD04_pad01
+    100790: leafD04_pad01 1
+    100792: leafD04_pad02
+    100794: leafD04_pad02 1
+    100796: leafD04_pad03
+    100798: leafD04_pad03 1
+    100800: leafD05_bnd
+    100802: leafD05_bnd 1
+    100804: leafD05_bnd 2
+    100806: leafD05_bnd 3
+    100808: leafD05_Icon
+    100810: leafD05_Icon 1
+    100812: leafD05_pad00
+    100814: leafD05_pad00 1
+    100816: leafD05_pad01
+    100818: leafD05_pad01 1
+    100820: leafD05_pad02
+    100822: leafD05_pad02 1
+    100824: leafD05_pad03
+    100826: leafD05_pad03 1
+    100828: leafD06_bnd
+    100830: leafD06_bnd 1
+    100832: leafD06_bnd 2
+    100834: leafD06_bnd 3
+    100836: leafD06_Icon
+    100838: leafD06_Icon 1
+    100840: leafD06_pad00
+    100842: leafD06_pad00 1
+    100844: leafD06_pad01
+    100846: leafD06_pad01 1
+    100848: leafD06_pad02
+    100850: leafD06_pad02 1
+    100852: leafD06_pad03
+    100854: leafD06_pad03 1
+    100856: leafD07_end
+    100858: leafD07_end 1
+    100860: leafD07_end 2
+    100862: leafD07_end 3
+    100864: leaves_Icon
+    100866: leaves_Icon 1
+    100868: lowerBody_Icon
+    100870: lowerBody_Icon 1
+    100872: lowerControl_jnt
+    100874: lowerControl_jnt 1
+    100876: lowerControl_jnt 2
+    100878: lowerControl_jnt 3
+    100880: moveAll_Icon
+    100882: moveAll_Icon 1
+    100884: Rig
+    100886: Rig 1
+    100888: Rig 2
+    100890: Rig 3
+    100892: Roma
+    100894: Roma_Rolling_01_Roma
+    100896: Roma_Rolling_01_Roma 1
+    100898: //RootNode
+    100900: Roma_Rolling_03_group
+    100902: Roma_Rolling_03_Roma
+    100904: romaClean_Blnd
+    100906: romaClean_Blnd 1
+    100908: romaCurl_correctiveBlnd
+    100910: romaCurl_correctiveBlnd 1
+    100912: romaGeo
+    100914: romaGeo 1
+    100916: romaLfitDown_correctiveBlnd
+    100918: romaLfitDown_correctiveBlnd 1
+    100920: romaLfitUp_correctiveBlnd
+    100922: romaLfitUp_correctiveBlnd 1
+    100924: rotatePivot_Icon
+    100926: rotatePivot_Icon 1
+    100928: surf
+    100930: surf 1
+    100932: surf 2
+    100934: surf 3
+    100936: surfConstrain_01
+    100938: surfConstrain_01 1
+    100940: surfConstrain_01 2
+    100942: surfConstrain_01 3
+    100944: surfConstrain_02
+    100946: surfConstrain_02 1
+    100948: surfConstrain_02 2
+    100950: surfConstrain_02 3
+    100952: surfConstrain_03
+    100954: surfConstrain_03 1
+    100956: surfConstrain_03 2
+    100958: surfConstrain_03 3
+    100960: surfConstrain_04
+    100962: surfConstrain_04 1
+    100964: surfConstrain_04 2
+    100966: surfConstrain_04 3
+    100968: surfConstrain_05
+    100970: surfConstrain_05 1
+    100972: surfConstrain_05 2
+    100974: surfConstrain_05 3
+    100976: surfConstrain_06
+    100978: surfConstrain_06 1
+    100980: surfConstrain_06 2
+    100982: surfConstrain_06 3
+    100984: surfConstrain_07
+    100986: surfConstrain_07 1
+    100988: surfConstrain_07 2
+    100990: surfConstrain_07 3
+    100992: surfConstrain_08
+    100994: surfConstrain_08 1
+    100996: surfConstrain_08 2
+    100998: surfConstrain_08 3
+    101000: surfConstrian_Grp
+    101002: surfConstrian_Grp 1
+    101004: surfConstrian_Grp 2
+    101006: surfConstrian_Grp 3
+    101008: upperBody_Icon
+    101010: upperBody_Icon 1
+    101012: upperControl_jnt
+    101014: upperControl_jnt 1
+    101016: upperControl_jnt 2
+    101018: upperControl_jnt 3
+    400000: arc_InfoCurve
+    400002: arc_InfoCurve 1
+    400004: arc_InfoCurve 2
+    400006: arc_InfoCurve 3
+    400008: blendShapes
+    400010: blendShapes 1
+    400012: blendShapes 2
+    400014: blendShapes 3
+    400016: body_Icon
+    400018: body_Icon 1
+    400020: bodyJnt1_bnd
+    400022: bodyJnt1_bnd 1
+    400024: bodyJnt1_bnd 2
+    400026: bodyJnt1_bnd 3
+    400028: bodyJnt2_bnd
+    400030: bodyJnt2_bnd 1
+    400032: bodyJnt2_bnd 2
+    400034: bodyJnt2_bnd 3
+    400036: bodyJnt3_bnd
+    400038: bodyJnt3_bnd 1
+    400040: bodyJnt3_bnd 2
+    400042: bodyJnt3_bnd 3
+    400044: bodyJnt4_bnd
+    400046: bodyJnt4_bnd 1
+    400048: bodyJnt4_bnd 2
+    400050: bodyJnt4_bnd 3
+    400052: bodyJnt5_bnd
+    400054: bodyJnt5_bnd 1
+    400056: bodyJnt5_bnd 2
+    400058: bodyJnt5_bnd 3
+    400060: bodyJnt6_bnd
+    400062: bodyJnt6_bnd 1
+    400064: bodyJnt6_bnd 2
+    400066: bodyJnt6_bnd 3
+    400068: bodyJnt7_bnd
+    400070: bodyJnt7_bnd 1
+    400072: bodyJnt7_bnd 2
+    400074: bodyJnt7_bnd 3
+    400076: bodyJnt8_wst
+    400078: bodyJnt8_wst 1
+    400080: bodyJnt8_wst 2
+    400082: bodyJnt8_wst 3
+    400084: Controls
+    400086: Controls 1
+    400088: Controls 2
+    400090: Controls 3
+    400092: Corrective
+    400094: Corrective 1
+    400096: Corrective 2
+    400098: Corrective 3
+    400100: DO_NOT_TOUCH
+    400102: DO_NOT_TOUCH 1
+    400104: DO_NOT_TOUCH 2
+    400106: DO_NOT_TOUCH 3
+    400108: Facia_Setup
+    400110: Facia_Setup 1
+    400112: Facia_Setup 2
+    400114: Facia_Setup 3
+    400116: Facial_Icon
+    400118: Facial_Icon 1
+    400120: Geo
+    400122: Geo 1
+    400124: Geo 2
+    400126: Geo 3
+    400128: group
+    400130: group1
+    400132: leafA01_bnd
+    400134: leafA01_bnd 1
+    400136: leafA01_bnd 2
+    400138: leafA01_bnd 3
+    400140: leafA01_Icon
+    400142: leafA01_Icon 1
+    400144: leafA01_pad00
+    400146: leafA01_pad00 1
+    400148: leafA01_pad01
+    400150: leafA01_pad01 1
+    400152: leafA01_pad02
+    400154: leafA01_pad02 1
+    400156: leafA01_pad03
+    400158: leafA01_pad03 1
+    400160: leafA02_bnd
+    400162: leafA02_bnd 1
+    400164: leafA02_bnd 2
+    400166: leafA02_bnd 3
+    400168: leafA02_Icon
+    400170: leafA02_Icon 1
+    400172: leafA02_pad00
+    400174: leafA02_pad00 1
+    400176: leafA02_pad01
+    400178: leafA02_pad01 1
+    400180: leafA02_pad02
+    400182: leafA02_pad02 1
+    400184: leafA02_pad03
+    400186: leafA02_pad03 1
+    400188: leafA03_bnd
+    400190: leafA03_bnd 1
+    400192: leafA03_bnd 2
+    400194: leafA03_bnd 3
+    400196: leafA03_Icon
+    400198: leafA03_Icon 1
+    400200: leafA03_pad00
+    400202: leafA03_pad00 1
+    400204: leafA03_pad01
+    400206: leafA03_pad01 1
+    400208: leafA03_pad02
+    400210: leafA03_pad02 1
+    400212: leafA03_pad03
+    400214: leafA03_pad03 1
+    400216: leafA04_bnd
+    400218: leafA04_bnd 1
+    400220: leafA04_bnd 2
+    400222: leafA04_bnd 3
+    400224: leafA04_Icon
+    400226: leafA04_Icon 1
+    400228: leafA04_pad00
+    400230: leafA04_pad00 1
+    400232: leafA04_pad01
+    400234: leafA04_pad01 1
+    400236: leafA04_pad02
+    400238: leafA04_pad02 1
+    400240: leafA04_pad03
+    400242: leafA04_pad03 1
+    400244: leafA05_bnd
+    400246: leafA05_bnd 1
+    400248: leafA05_bnd 2
+    400250: leafA05_bnd 3
+    400252: leafA05_Icon
+    400254: leafA05_Icon 1
+    400256: leafA05_pad00
+    400258: leafA05_pad00 1
+    400260: leafA05_pad01
+    400262: leafA05_pad01 1
+    400264: leafA05_pad02
+    400266: leafA05_pad02 1
+    400268: leafA05_pad03
+    400270: leafA05_pad03 1
+    400272: leafA06_bnd
+    400274: leafA06_bnd 1
+    400276: leafA06_bnd 2
+    400278: leafA06_bnd 3
+    400280: leafA06_Icon
+    400282: leafA06_Icon 1
+    400284: leafA06_pad00
+    400286: leafA06_pad00 1
+    400288: leafA06_pad01
+    400290: leafA06_pad01 1
+    400292: leafA06_pad02
+    400294: leafA06_pad02 1
+    400296: leafA06_pad03
+    400298: leafA06_pad03 1
+    400300: leafA07_end
+    400302: leafA07_end 1
+    400304: leafA07_end 2
+    400306: leafA07_end 3
+    400308: leafB01_bnd
+    400310: leafB01_bnd 1
+    400312: leafB01_bnd 2
+    400314: leafB01_bnd 3
+    400316: leafB01_Icon
+    400318: leafB01_Icon 1
+    400320: leafB01_pad00
+    400322: leafB01_pad00 1
+    400324: leafB01_pad01
+    400326: leafB01_pad01 1
+    400328: leafB01_pad02
+    400330: leafB01_pad02 1
+    400332: leafB01_pad03
+    400334: leafB01_pad03 1
+    400336: leafB02_bnd
+    400338: leafB02_bnd 1
+    400340: leafB02_bnd 2
+    400342: leafB02_bnd 3
+    400344: leafB02_Icon
+    400346: leafB02_Icon 1
+    400348: leafB02_pad00
+    400350: leafB02_pad00 1
+    400352: leafB02_pad01
+    400354: leafB02_pad01 1
+    400356: leafB02_pad02
+    400358: leafB02_pad02 1
+    400360: leafB02_pad03
+    400362: leafB02_pad03 1
+    400364: leafB03_bnd
+    400366: leafB03_bnd 1
+    400368: leafB03_bnd 2
+    400370: leafB03_bnd 3
+    400372: leafB03_Icon
+    400374: leafB03_Icon 1
+    400376: leafB03_pad00
+    400378: leafB03_pad00 1
+    400380: leafB03_pad01
+    400382: leafB03_pad01 1
+    400384: leafB03_pad02
+    400386: leafB03_pad02 1
+    400388: leafB03_pad03
+    400390: leafB03_pad03 1
+    400392: leafB04_bnd
+    400394: leafB04_bnd 1
+    400396: leafB04_bnd 2
+    400398: leafB04_bnd 3
+    400400: leafB04_Icon
+    400402: leafB04_Icon 1
+    400404: leafB04_pad00
+    400406: leafB04_pad00 1
+    400408: leafB04_pad01
+    400410: leafB04_pad01 1
+    400412: leafB04_pad02
+    400414: leafB04_pad02 1
+    400416: leafB04_pad03
+    400418: leafB04_pad03 1
+    400420: leafB05_bnd
+    400422: leafB05_bnd 1
+    400424: leafB05_bnd 2
+    400426: leafB05_bnd 3
+    400428: leafB05_Icon
+    400430: leafB05_Icon 1
+    400432: leafB05_pad00
+    400434: leafB05_pad00 1
+    400436: leafB05_pad01
+    400438: leafB05_pad01 1
+    400440: leafB05_pad02
+    400442: leafB05_pad02 1
+    400444: leafB05_pad03
+    400446: leafB05_pad03 1
+    400448: leafB06_bnd
+    400450: leafB06_bnd 1
+    400452: leafB06_bnd 2
+    400454: leafB06_bnd 3
+    400456: leafB06_Icon
+    400458: leafB06_Icon 1
+    400460: leafB06_pad00
+    400462: leafB06_pad00 1
+    400464: leafB06_pad01
+    400466: leafB06_pad01 1
+    400468: leafB06_pad02
+    400470: leafB06_pad02 1
+    400472: leafB06_pad03
+    400474: leafB06_pad03 1
+    400476: leafB07_end
+    400478: leafB07_end 1
+    400480: leafB07_end 2
+    400482: leafB07_end 3
+    400484: leafC01_bnd
+    400486: leafC01_bnd 1
+    400488: leafC01_bnd 2
+    400490: leafC01_bnd 3
+    400492: leafC01_Icon
+    400494: leafC01_Icon 1
+    400496: leafC01_pad00
+    400498: leafC01_pad00 1
+    400500: leafC01_pad01
+    400502: leafC01_pad01 1
+    400504: leafC01_pad02
+    400506: leafC01_pad02 1
+    400508: leafC01_pad03
+    400510: leafC01_pad03 1
+    400512: leafC02_bnd
+    400514: leafC02_bnd 1
+    400516: leafC02_bnd 2
+    400518: leafC02_bnd 3
+    400520: leafC02_Icon
+    400522: leafC02_Icon 1
+    400524: leafC02_pad00
+    400526: leafC02_pad00 1
+    400528: leafC02_pad01
+    400530: leafC02_pad01 1
+    400532: leafC02_pad02
+    400534: leafC02_pad02 1
+    400536: leafC02_pad03
+    400538: leafC02_pad03 1
+    400540: leafC03_bnd
+    400542: leafC03_bnd 1
+    400544: leafC03_bnd 2
+    400546: leafC03_bnd 3
+    400548: leafC03_Icon
+    400550: leafC03_Icon 1
+    400552: leafC03_pad00
+    400554: leafC03_pad00 1
+    400556: leafC03_pad01
+    400558: leafC03_pad01 1
+    400560: leafC03_pad02
+    400562: leafC03_pad02 1
+    400564: leafC03_pad03
+    400566: leafC03_pad03 1
+    400568: leafC04_bnd
+    400570: leafC04_bnd 1
+    400572: leafC04_bnd 2
+    400574: leafC04_bnd 3
+    400576: leafC04_Icon
+    400578: leafC04_Icon 1
+    400580: leafC04_pad00
+    400582: leafC04_pad00 1
+    400584: leafC04_pad01
+    400586: leafC04_pad01 1
+    400588: leafC04_pad02
+    400590: leafC04_pad02 1
+    400592: leafC04_pad03
+    400594: leafC04_pad03 1
+    400596: leafC05_bnd
+    400598: leafC05_bnd 1
+    400600: leafC05_bnd 2
+    400602: leafC05_bnd 3
+    400604: leafC05_Icon
+    400606: leafC05_Icon 1
+    400608: leafC05_pad00
+    400610: leafC05_pad00 1
+    400612: leafC05_pad01
+    400614: leafC05_pad01 1
+    400616: leafC05_pad02
+    400618: leafC05_pad02 1
+    400620: leafC05_pad03
+    400622: leafC05_pad03 1
+    400624: leafC06_bnd
+    400626: leafC06_bnd 1
+    400628: leafC06_bnd 2
+    400630: leafC06_bnd 3
+    400632: leafC06_Icon
+    400634: leafC06_Icon 1
+    400636: leafC06_pad00
+    400638: leafC06_pad00 1
+    400640: leafC06_pad01
+    400642: leafC06_pad01 1
+    400644: leafC06_pad02
+    400646: leafC06_pad02 1
+    400648: leafC06_pad03
+    400650: leafC06_pad03 1
+    400652: leafC07_bnd
+    400654: leafC07_bnd 1
+    400656: leafC07_bnd 2
+    400658: leafC07_bnd 3
+    400660: leafC07_Icon
+    400662: leafC07_Icon 1
+    400664: leafC07_pad00
+    400666: leafC07_pad00 1
+    400668: leafC07_pad01
+    400670: leafC07_pad01 1
+    400672: leafC07_pad02
+    400674: leafC07_pad02 1
+    400676: leafC07_pad03
+    400678: leafC07_pad03 1
+    400680: leafC08_end
+    400682: leafC08_end 1
+    400684: leafC08_end 2
+    400686: leafC08_end 3
+    400688: leafD01_bnd
+    400690: leafD01_bnd 1
+    400692: leafD01_bnd 2
+    400694: leafD01_bnd 3
+    400696: leafD01_Icon
+    400698: leafD01_Icon 1
+    400700: leafD01_pad00
+    400702: leafD01_pad00 1
+    400704: leafD01_pad01
+    400706: leafD01_pad01 1
+    400708: leafD01_pad02
+    400710: leafD01_pad02 1
+    400712: leafD01_pad03
+    400714: leafD01_pad03 1
+    400716: leafD02_bnd
+    400718: leafD02_bnd 1
+    400720: leafD02_bnd 2
+    400722: leafD02_bnd 3
+    400724: leafD02_Icon
+    400726: leafD02_Icon 1
+    400728: leafD02_pad00
+    400730: leafD02_pad00 1
+    400732: leafD02_pad01
+    400734: leafD02_pad01 1
+    400736: leafD02_pad02
+    400738: leafD02_pad02 1
+    400740: leafD02_pad03
+    400742: leafD02_pad03 1
+    400744: leafD03_bnd
+    400746: leafD03_bnd 1
+    400748: leafD03_bnd 2
+    400750: leafD03_bnd 3
+    400752: leafD03_Icon
+    400754: leafD03_Icon 1
+    400756: leafD03_pad00
+    400758: leafD03_pad00 1
+    400760: leafD03_pad01
+    400762: leafD03_pad01 1
+    400764: leafD03_pad02
+    400766: leafD03_pad02 1
+    400768: leafD03_pad03
+    400770: leafD03_pad03 1
+    400772: leafD04_bnd
+    400774: leafD04_bnd 1
+    400776: leafD04_bnd 2
+    400778: leafD04_bnd 3
+    400780: leafD04_Icon
+    400782: leafD04_Icon 1
+    400784: leafD04_pad00
+    400786: leafD04_pad00 1
+    400788: leafD04_pad01
+    400790: leafD04_pad01 1
+    400792: leafD04_pad02
+    400794: leafD04_pad02 1
+    400796: leafD04_pad03
+    400798: leafD04_pad03 1
+    400800: leafD05_bnd
+    400802: leafD05_bnd 1
+    400804: leafD05_bnd 2
+    400806: leafD05_bnd 3
+    400808: leafD05_Icon
+    400810: leafD05_Icon 1
+    400812: leafD05_pad00
+    400814: leafD05_pad00 1
+    400816: leafD05_pad01
+    400818: leafD05_pad01 1
+    400820: leafD05_pad02
+    400822: leafD05_pad02 1
+    400824: leafD05_pad03
+    400826: leafD05_pad03 1
+    400828: leafD06_bnd
+    400830: leafD06_bnd 1
+    400832: leafD06_bnd 2
+    400834: leafD06_bnd 3
+    400836: leafD06_Icon
+    400838: leafD06_Icon 1
+    400840: leafD06_pad00
+    400842: leafD06_pad00 1
+    400844: leafD06_pad01
+    400846: leafD06_pad01 1
+    400848: leafD06_pad02
+    400850: leafD06_pad02 1
+    400852: leafD06_pad03
+    400854: leafD06_pad03 1
+    400856: leafD07_end
+    400858: leafD07_end 1
+    400860: leafD07_end 2
+    400862: leafD07_end 3
+    400864: leaves_Icon
+    400866: leaves_Icon 1
+    400868: lowerBody_Icon
+    400870: lowerBody_Icon 1
+    400872: lowerControl_jnt
+    400874: lowerControl_jnt 1
+    400876: lowerControl_jnt 2
+    400878: lowerControl_jnt 3
+    400880: moveAll_Icon
+    400882: moveAll_Icon 1
+    400884: Rig
+    400886: Rig 1
+    400888: Rig 2
+    400890: Rig 3
+    400892: Roma
+    400894: Roma_Rolling_01_Roma
+    400896: Roma_Rolling_01_Roma 1
+    400898: //RootNode
+    400900: Roma_Rolling_03_group
+    400902: Roma_Rolling_03_Roma
+    400904: romaClean_Blnd
+    400906: romaClean_Blnd 1
+    400908: romaCurl_correctiveBlnd
+    400910: romaCurl_correctiveBlnd 1
+    400912: romaGeo
+    400914: romaGeo 1
+    400916: romaLfitDown_correctiveBlnd
+    400918: romaLfitDown_correctiveBlnd 1
+    400920: romaLfitUp_correctiveBlnd
+    400922: romaLfitUp_correctiveBlnd 1
+    400924: rotatePivot_Icon
+    400926: rotatePivot_Icon 1
+    400928: surf
+    400930: surf 1
+    400932: surf 2
+    400934: surf 3
+    400936: surfConstrain_01
+    400938: surfConstrain_01 1
+    400940: surfConstrain_01 2
+    400942: surfConstrain_01 3
+    400944: surfConstrain_02
+    400946: surfConstrain_02 1
+    400948: surfConstrain_02 2
+    400950: surfConstrain_02 3
+    400952: surfConstrain_03
+    400954: surfConstrain_03 1
+    400956: surfConstrain_03 2
+    400958: surfConstrain_03 3
+    400960: surfConstrain_04
+    400962: surfConstrain_04 1
+    400964: surfConstrain_04 2
+    400966: surfConstrain_04 3
+    400968: surfConstrain_05
+    400970: surfConstrain_05 1
+    400972: surfConstrain_05 2
+    400974: surfConstrain_05 3
+    400976: surfConstrain_06
+    400978: surfConstrain_06 1
+    400980: surfConstrain_06 2
+    400982: surfConstrain_06 3
+    400984: surfConstrain_07
+    400986: surfConstrain_07 1
+    400988: surfConstrain_07 2
+    400990: surfConstrain_07 3
+    400992: surfConstrain_08
+    400994: surfConstrain_08 1
+    400996: surfConstrain_08 2
+    400998: surfConstrain_08 3
+    401000: surfConstrian_Grp
+    401002: surfConstrian_Grp 1
+    401004: surfConstrian_Grp 2
+    401006: surfConstrian_Grp 3
+    401008: upperBody_Icon
+    401010: upperBody_Icon 1
+    401012: upperControl_jnt
+    401014: upperControl_jnt 1
+    401016: upperControl_jnt 2
+    401018: upperControl_jnt 3
+    2100000: lambert12
+    2100002: Default_Material
+    2100004: Roma_Rolling_01_romaMat
+    2100006: Roma_Rolling_01_teethMat
+    2100008: Roma_Rolling_01_gumMat
+    2100010: Roma_Rolling_01_lambert15
+    2100012: Roma_Rolling_03_lambert12
+    2100014: Roma_Rolling_03_Roma_Rolling_01_romaMat
+    2100016: Roma_Rolling_03_Roma_Rolling_01_teethMat
+    2100018: Roma_Rolling_03_Roma_Rolling_01_gumMat
+    2100020: Roma_Rolling_03_Roma_Rolling_01_lambert15
+    2300000: romaCurl_correctiveBlnd
+    2300002: romaCurl_correctiveBlnd 1
+    2300004: romaLfitDown_correctiveBlnd
+    2300006: romaLfitDown_correctiveBlnd 1
+    2300008: romaLfitUp_correctiveBlnd
+    2300010: romaLfitUp_correctiveBlnd 1
+    3300000: romaCurl_correctiveBlnd
+    3300002: romaCurl_correctiveBlnd 1
+    3300004: romaLfitDown_correctiveBlnd
+    3300006: romaLfitDown_correctiveBlnd 1
+    3300008: romaLfitUp_correctiveBlnd
+    3300010: romaLfitUp_correctiveBlnd 1
+    4300000: romaClean_Blnd
+    4300002: romaLfitUp_correctiveBlnd
+    4300004: romaLfitDown_correctiveBlnd
+    4300006: romaCurl_correctiveBlnd
+    4300008: romaGeo
+    4300010: romaClean_Blnd
+    4300012: romaLfitUp_correctiveBlnd
+    4300014: romaLfitDown_correctiveBlnd
+    4300016: romaCurl_correctiveBlnd
+    4300018: romaGeo
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: romaClean_Blnd
+    13700002: romaClean_Blnd 1
+    13700004: romaGeo
+    13700006: romaGeo 1
+    2186277476908879412: ImportLogs
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 1
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

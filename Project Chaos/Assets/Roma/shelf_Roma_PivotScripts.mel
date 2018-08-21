@@ -1,0 +1,62 @@
+global proc shelf_Roma_PivotScripts () {
+    global string $gBuffStr;
+    global string $gBuffStr0;
+    global string $gBuffStr1;
+
+
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -annotation "Place" 
+        -enableBackground 0
+        -align "center" 
+        -label "Pvt Cnt" 
+        -labelOffset 0
+        -font "plainLabelFont" 
+        -imageOverlayLabel "Pvt Cnt" 
+        -overlayLabelColor 0.8 0.8 0.8 
+        -overlayLabelBackColor 0 0 0 0.2 
+        -image "pythonFamily.png" 
+        -image1 "pythonFamily.png" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "import pymel.core as pm\n\n\n\n#Get Pivot of PivotLoc\npivotLoc = pm.select('bodyJnt4_bnd')\n\ncontrol_Pivot = pm.xform(pivotLoc, q=True, ws=True, pivots=True)\n\npm.xform('body_Icon', ws=True, pivots=control_Pivot[0:3])" 
+        -sourceType "python" 
+        -commandRepeatable 1
+        -flat 1
+    ;
+    shelfButton
+        -enableCommandRepeat 1
+        -enable 1
+        -width 34
+        -height 34
+        -manage 1
+        -visible 1
+        -preventOverride 0
+        -annotation "Plcae pivot wherever the rotatePivot Icon is" 
+        -enableBackground 0
+        -align "center" 
+        -label "Pvt Plc" 
+        -labelOffset 0
+        -font "plainLabelFont" 
+        -imageOverlayLabel "Pvt Plc" 
+        -overlayLabelColor 0.8 0.8 0.8 
+        -overlayLabelBackColor 0 0 0 0.2 
+        -image "pythonFamily.png" 
+        -image1 "pythonFamily.png" 
+        -style "iconOnly" 
+        -marginWidth 1
+        -marginHeight 1
+        -command "import pymel.core as pm\n\n\n\n#Get Pivot of PivotLoc\npivotLoc = pm.select('rotatePivot_Icon')\n\ncontrol_Pivot = pm.xform(pivotLoc, q=True, ws=True, pivots=True)\n\npm.xform('body_Icon', ws=True, pivots=control_Pivot[0:3])\n" 
+        -sourceType "python" 
+        -commandRepeatable 1
+        -flat 1
+    ;
+
+} 

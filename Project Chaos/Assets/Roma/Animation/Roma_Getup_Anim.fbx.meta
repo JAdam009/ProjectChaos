@@ -1,0 +1,182 @@
+fileFormatVersion: 2
+guid: 549f0fa8cc7978840bd0f4aa733bddd3
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: body_Icon
+    100002: bodyJnt1_bnd
+    100004: bodyJnt2_bnd
+    100006: bodyJnt3_bnd
+    100008: bodyJnt4_bnd
+    100010: bodyJnt5_bnd
+    100012: bodyJnt6_bnd
+    100014: bodyJnt7_bnd
+    100016: bodyJnt8_wst
+    100018: Controls
+    100020: DO_NOT_TOUCH
+    100022: leafA01_bnd
+    100024: leafA02_bnd
+    100026: leafA03_bnd
+    100028: leafA04_bnd
+    100030: leafA05_bnd
+    100032: leafA06_bnd
+    100034: leafA07_end
+    100036: leafB01_bnd
+    100038: leafB02_bnd
+    100040: leafB03_bnd
+    100042: leafB04_bnd
+    100044: leafB05_bnd
+    100046: leafB06_bnd
+    100048: leafB07_end
+    100050: leafC01_bnd
+    100052: leafC02_bnd
+    100054: leafC03_bnd
+    100056: leafC04_bnd
+    100058: leafC05_bnd
+    100060: leafC06_bnd
+    100062: leafC07_bnd
+    100064: leafC08_end
+    100066: leafD01_bnd
+    100068: leafD02_bnd
+    100070: leafD03_bnd
+    100072: leafD04_bnd
+    100074: leafD05_bnd
+    100076: leafD06_bnd
+    100078: leafD07_end
+    100080: lowerBody_Icon
+    100082: lowerControl_jnt
+    100084: moveAll_Icon
+    100086: Rig
+    100088: //RootNode
+    100090: upperBody_Icon
+    100092: upperControl_jnt
+    400000: body_Icon
+    400002: bodyJnt1_bnd
+    400004: bodyJnt2_bnd
+    400006: bodyJnt3_bnd
+    400008: bodyJnt4_bnd
+    400010: bodyJnt5_bnd
+    400012: bodyJnt6_bnd
+    400014: bodyJnt7_bnd
+    400016: bodyJnt8_wst
+    400018: Controls
+    400020: DO_NOT_TOUCH
+    400022: leafA01_bnd
+    400024: leafA02_bnd
+    400026: leafA03_bnd
+    400028: leafA04_bnd
+    400030: leafA05_bnd
+    400032: leafA06_bnd
+    400034: leafA07_end
+    400036: leafB01_bnd
+    400038: leafB02_bnd
+    400040: leafB03_bnd
+    400042: leafB04_bnd
+    400044: leafB05_bnd
+    400046: leafB06_bnd
+    400048: leafB07_end
+    400050: leafC01_bnd
+    400052: leafC02_bnd
+    400054: leafC03_bnd
+    400056: leafC04_bnd
+    400058: leafC05_bnd
+    400060: leafC06_bnd
+    400062: leafC07_bnd
+    400064: leafC08_end
+    400066: leafD01_bnd
+    400068: leafD02_bnd
+    400070: leafD03_bnd
+    400072: leafD04_bnd
+    400074: leafD05_bnd
+    400076: leafD06_bnd
+    400078: leafD07_end
+    400080: lowerBody_Icon
+    400082: lowerControl_jnt
+    400084: moveAll_Icon
+    400086: Rig
+    400088: //RootNode
+    400090: upperBody_Icon
+    400092: upperControl_jnt
+    7400000: Roma_Getting_up_03
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
